@@ -3,7 +3,7 @@
 ### Instructions
 Fork and clone this repo
 
-Complete the prompts in the Canvas link and paste your solutions into the Script.js file
+Complete Prompts 1-10 in the Canvas link and paste your solutions into the Script.js file
 
 After each prompt, add your work to the Git staging by running the commands
 
